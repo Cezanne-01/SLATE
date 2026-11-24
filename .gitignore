@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# data and results are not part of the repository
+data/*
+!data/README.md
+public_data/
+raw/
+outputs/
+*.pkl
+
+# files written by the example
+examples/*.png
+!examples/before_after.png
+examples/*.gif
+examples/corrected_fixations.csv

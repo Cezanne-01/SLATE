@@ -1,0 +1,24 @@
+# Task 6.3 reading passage: Kim Yeong-rang, excerpts from "Yeongnang Sijip" (1935).
+# Public domain (author died in 1950).
+#
+# This file is the text exactly as shown on screen: a montage of several short four-line
+# poems in modernized spelling, not the canonical text.
+#   - 89 words (eojeol) = 89 word boxes in stimuli/task6.3_words.json, in reading order
+#     (top to bottom, left to right), rendered as 10 screen lines with
+#     [12, 12, 10, 9, 11, 8, 4, 8, 6, 9] words per line.
+#   - Spacing follows the on-screen rendering so that word indices match ROI indices one to
+#     one. Do not edit the body.
+#
+# Also used as the reference text for speech alignment.
+# Lines starting with '#' are comments; only the body below is used.
+
+보이지도 않는 입김의 가는 실마리 새파란 하늘끝에 오름과 같이 대숲의 숨은마음 기어이
+찾으려 삶은 오로지 바늘끝 같이 님 두시고 가는길의 애끈한 마음이여 한숨쉬면 꺼질듯한
+조매로운 꿈길이여 이밤은 캄캄한 어느뉘 시골인가 이슬같이 고인 눈물을 손끝으로
+깨치나니 무너진 성터에 바람이 세나니 가을은 쓸쓸한 맛 뿐이구려
+희끗희끗 산국화 나붓기면서 가을은 애닯다 속삭이느냐 저녁때 저녁때 외로운 마음 붙잡지
+못하여 걸어다님을 누구라 불어주신 바람이기로 눈물을 눈물을 빼앗어가오
+눈썹에 아롱지는 눈물을 본다
+풀위엔 정기가 꿈같이 오르고 가삼은 간곡히 입을 벌린다
+푸른향물 흘러버린 언덕위에 내마음 하루살이 나래로다
+보실보실 가을눈이 그 나래를 치며 허공의 속삭임을 들으라 한다

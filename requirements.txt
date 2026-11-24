@@ -1,0 +1,12 @@
+# Versions used for the reported analyses (Python 3.11 or later)
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.3
+scikit-learn==1.9.0
+matplotlib==3.11.0
+# audio decoding and voice activity (speech-based supplementation, slate/speech_activity.py, slate/audio.py)
+av==18.0.0
+librosa==0.11.0
+soundfile==0.14.0
+# optional: word-level speech recognition for the line cues (slate/speech_alignment.py)
+faster-whisper==1.2.1
